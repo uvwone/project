@@ -13,8 +13,8 @@ driver = webdriver.Chrome(service=Service(
       ChromeDriverManager().install()),
       options=chrome_options)
 
-ID = 'kanca512'
-PW = '0615ab@Blind22'
+ID = ''
+PW = ''
 
 # \지우고 한줄로 써도 사용 가능
 url = 'https://nid.naver.com'
