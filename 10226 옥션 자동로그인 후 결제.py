@@ -10,8 +10,8 @@ driver = webdriver.Chrome(service=Service(
       ChromeDriverManager().install()),
       options=chrome_options)
 
-ID = 'lhj2442'
-PW = 'zheld123'
+ID = ''
+PW = ''
 # \지우고 한줄로 써도 사용 가능
 url = 'https://memberssl.auction.co.kr/Authenticate/default.aspx?\
 url=http%3A//corners.auction.co.kr/AllKill/AllDay.aspx'
